@@ -1,5 +1,5 @@
 # Email
 
-Guides for common email client problems and configuration.
+Uputstva za česte probleme sa email klijentima i podešavanje naloga.
 
-- Thunderbird — coming soon
+- Thunderbird — uskoro

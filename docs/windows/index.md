@@ -1,5 +1,5 @@
 # Windows
 
-Guides for common Windows problems and fixes.
+Uputstva za česte probleme na Windows računarima.
 
-- Coming soon
+- Uskoro

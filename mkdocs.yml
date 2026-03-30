@@ -1,11 +1,11 @@
 site_name: AJTI Wiki
 site_url: https://wiki.ajti.party
-site_description: Client knowledge base — common IT problems and solutions
+site_description: Baza znanja — česti IT problemi i rešenja
 site_author: AJTI
 
 theme:
   name: material
-  language: en
+  language: sr
   palette:
     - scheme: default
       primary: blue
@@ -28,10 +28,10 @@ theme:
     - content.code.copy
 
 nav:
-  - Home: index.md
+  - Početna: index.md
   - Email:
       - email/index.md
-  - Network:
+  - Mreža:
       - network/index.md
   - Windows:
       - windows/index.md

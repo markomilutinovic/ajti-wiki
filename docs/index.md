@@ -1,18 +1,18 @@
 # AJTI Wiki
 
-Welcome to the AJTI client knowledge base.
+Dobrodošli na AJTI bazu znanja.
 
-Find step-by-step guides for common IT problems below. Use the search bar or browse by category.
-
----
-
-## Categories
-
-- **[Email](email/index.md)** — Thunderbird, Outlook, mail setup and troubleshooting
-- **[Network](network/index.md)** — Connectivity, VPN, Wi-Fi issues
-- **[Windows](windows/index.md)** — Common Windows problems and fixes
-- **[Hardware](hardware/index.md)** — Printers, peripherals, hardware issues
+Ovde možete pronaći uputstva za rešavanje čestih IT problema. Koristite pretragu ili pregledajte po kategorijama.
 
 ---
 
-Need help that isn't covered here? Contact us at [ajti.rs](https://ajti.rs).
+## Kategorije
+
+- **[Email](email/index.md)** — Thunderbird, Outlook, podešavanje i rešavanje problema
+- **[Mreža](network/index.md)** — Problemi sa internetom, VPN, Wi-Fi
+- **[Windows](windows/index.md)** — Česti problemi i rešenja
+- **[Hardware](hardware/index.md)** — Štampači, periferije, hardverski problemi
+
+---
+
+Niste pronašli odgovor? Kontaktirajte nas na [ajti.rs](https://ajti.rs).

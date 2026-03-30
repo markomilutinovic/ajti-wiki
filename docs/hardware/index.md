@@ -1,5 +1,5 @@
 # Hardware
 
-Guides for printers, peripherals, and hardware issues.
+Uputstva za probleme sa štampačima, periferijama i hardverom.
 
-- Coming soon
+- Uskoro

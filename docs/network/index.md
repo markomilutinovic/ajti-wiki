@@ -1,5 +1,5 @@
-# Network
+# Mreža
 
-Guides for connectivity, VPN, and network issues.
+Uputstva za probleme sa internetom, VPN konekcijom i mrežom.
 
-- Coming soon
+- Uskoro
