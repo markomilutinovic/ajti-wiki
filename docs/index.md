@@ -1,4 +1,4 @@
-# AJTI Wiki
+# Ajti Wiki
 
 Dobrodošli na AJTI bazu znanja.
 

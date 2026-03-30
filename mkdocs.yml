@@ -1,11 +1,11 @@
-site_name: AJTI Wiki
+site_name: Ajti Wiki
 site_url: https://wiki.ajti.party
 site_description: Baza znanja — česti IT problemi i rešenja
 site_author: AJTI
 
 theme:
   name: material
-  language: sr
+  language: en
   palette:
     - scheme: default
       primary: blue
