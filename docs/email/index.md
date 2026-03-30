@@ -2,4 +2,4 @@
 
 Uputstva za česte probleme sa email klijentima i podešavanje naloga.
 
-- Thunderbird — uskoro
+- [Thunderbird — Inbox ne prikazuje svu poštu](thunderbird-popravka-foldera.md)

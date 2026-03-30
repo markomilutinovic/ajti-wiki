@@ -31,6 +31,7 @@ nav:
   - Početna: index.md
   - Email:
       - email/index.md
+      - Thunderbird — Inbox ne prikazuje svu poštu: email/thunderbird-popravka-foldera.md
   - Mreža:
       - network/index.md
   - Windows:
