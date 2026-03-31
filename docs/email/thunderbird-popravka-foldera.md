@@ -22,8 +22,6 @@ U levoj koloni pronađite folder **Inbox** (ili **Primljeni**) ispod vašeg emai
 
 Kliknite na njega **desnim tasterom miša**.
 
-![Desni klik na Inbox](../assets/thunderbird-desni-klik.png)
-
 ### Korak 3 — Izaberite "Repair Folder"
 
 U meniju koji se otvori, kliknite na opciju **Repair Folder**.
