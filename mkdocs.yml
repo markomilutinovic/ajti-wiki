@@ -36,6 +36,10 @@ nav:
       - network/index.md
   - Windows:
       - windows/index.md
+      - SAP GUI:
+          - SAP GUI 8.00 Instalacija: windows/SAP-GUI-800-Instalacija.md
+          - SAP GUI Jezik i Izgled: windows/SAP-GUI-Jezik-i-Izgled.md
+      - CheckPoint Mobile VPN Instalacija: windows/CheckPoint-Mobile-VPN-Instalacija.md
   - Hardware:
       - hardware/index.md
 
