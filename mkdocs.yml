@@ -38,6 +38,7 @@ nav:
           - SAP GUI 8.00 Instalacija: windows/SAP-GUI-800-Instalacija.md
           - SAP GUI Jezik i Izgled: windows/SAP-GUI-Jezik-i-Izgled.md
       - CheckPoint Mobile VPN Instalacija: windows/CheckPoint-Mobile-VPN-Instalacija.md
+      - Hal E-Bank Nadogradnja (Personal i Corporate): windows/Hal-E-Bank-Nadogradnja.md
 
 markdown_extensions:
   - admonition
