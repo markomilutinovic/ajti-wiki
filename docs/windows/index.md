@@ -2,4 +2,11 @@
 
 Uputstva za česte probleme na Windows računarima.
 
-- Uskoro
+## SAP GUI
+
+- [SAP GUI 8.00 Instalacija](SAP-GUI-800-Instalacija.md)
+- [SAP GUI Jezik i Izgled](SAP-GUI-Jezik-i-Izgled.md)
+
+## VPN
+
+- [CheckPoint Mobile VPN Instalacija](CheckPoint-Mobile-VPN-Instalacija.md)
