@@ -2,4 +2,4 @@
 
 Uputstva za probleme sa štampačima, periferijama i hardverom.
 
-- Uskoro
+- [Elcom terminal — Aktivacija TAG-a za novog zaposlenog](elcom-tag-aktivacija.md)
