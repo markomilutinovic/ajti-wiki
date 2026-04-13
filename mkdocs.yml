@@ -3,6 +3,9 @@ site_url: https://wiki.ajti.party
 site_description: Baza znanja — česti IT problemi i rešenja
 site_author: AJTI
 
+extra_css:
+  - stylesheets/extra.css
+
 theme:
   name: material
   language: en
