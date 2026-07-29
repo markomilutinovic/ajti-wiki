@@ -44,6 +44,9 @@ nav:
           - SAP GUI Jezik i Izgled: windows/SAP-GUI-Jezik-i-Izgled.md
       - CheckPoint Mobile VPN Instalacija: windows/CheckPoint-Mobile-VPN-Instalacija.md
       - Hal E-Bank Nadogradnja (Personal i Corporate): windows/Hal-E-Bank-Nadogradnja.md
+  - Mreža:
+      - network/index.md
+      - Prime Media — SFTP Upload: network/prime-media-sftp-upload.md
   - Hardware:
       - hardware/index.md
       - Elcom — Aktivacija TAG-a: hardware/elcom-tag-aktivacija.md
