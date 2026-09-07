@@ -37,6 +37,7 @@ nav:
   - Email:
       - email/index.md
       - Thunderbird — Inbox ne prikazuje svu poštu: email/thunderbird-popravka-foldera.md
+      - "cPanel Webmail: Out of Office i prosleđivanje pošte": email/cpanel-webmail-out-of-office-forwarding.md
   - Windows:
       - windows/index.md
       - SAP GUI:
