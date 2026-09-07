@@ -12,7 +12,7 @@ Uputstvo za dve stvari na mejlu: automatski odgovor za vreme odsustva (Out of Of
 !!! info "Ako ste već ulogovani i gledate svoje mejlove"
     Ako se stranica koju vidite sastoji od foldera (Primljene, Poslate...) umesto od kvadrata sa opcijama, već ste u inbox-u, a ne na početnoj stranici sa podešavanjima. U levom donjem uglu kliknite na ikonicu **Webmail Home** (crveno-narandžasti "cP" krug) da se vratite na stranicu sa svim opcijama.
 
-    ![Webmail Home ikonica u inbox-u](../assets/images/cpanel-webmail/04-webmail-home-icon.svg)
+    ![Webmail Home ikonica u inbox-u](../assets/images/cpanel-webmail/04-webmail-home-icon.png)
 
 ---
 
@@ -22,7 +22,7 @@ Uputstvo za dve stvari na mejlu: automatski odgovor za vreme odsustva (Out of Of
 
 Na početnoj stranici, u sekciji **Manage Your Inbox**, kliknite na **Autoresponders**.
 
-![Početna stranica, Autoresponders i Forwarders](../assets/images/cpanel-webmail/01-portal-home.svg)
+![Početna stranica, Autoresponders i Forwarders](../assets/images/cpanel-webmail/01-portal-home.png)
 
 ### Korak 2. Dodajte automatski odgovor
 
@@ -35,7 +35,7 @@ Kliknite na dugme **Add Autoresponder** i popunite formu:
 - **Start**: ostavite na **Immediately** da odgovor počne odmah čim sačuvate formu, ili izaberite **Custom** i unesite datum kada odsustvo počinje.
 - **Stop**: izaberite **Custom** i unesite datum povratka na posao, da se odgovor sam isključi. Opcija **Never** znači da ostaje aktivan dok ga ručno ne obrišete.
 
-![Forma za automatski odgovor](../assets/images/cpanel-webmail/02-autoresponder-form.svg)
+![Forma za automatski odgovor](../assets/images/cpanel-webmail/02-autoresponder-form.png)
 
 Kliknite **Create**. Automatski odgovor je aktivan.
 
@@ -58,7 +58,7 @@ Na početnoj stranici kliknite na **Forwarders** (slika iz Dela 1, desni kvadrat
 
 Kliknite na dugme **Add Forwarder**, unesite adresu na koju želite da se prosleđuju mejlovi u polje **Forward to Email Address**, i kliknite **Add Forwarder**.
 
-![Forma za prosleđivanje mejlova](../assets/images/cpanel-webmail/03-forwarder-form.svg)
+![Forma za prosleđivanje mejlova](../assets/images/cpanel-webmail/03-forwarder-form.png)
 
 !!! warning "Važno"
     Prosleđivanje šalje **kopiju** svakog dolaznog mejla na drugu adresu. Originalna poruka i dalje ostaje u vašem inboxu, ne briše se i ne premešta. Da uklonite prosleđivanje, vratite se na stranicu **Forwarders** i kliknite **Delete** pored njega.
