@@ -4,6 +4,14 @@ Uputstvo za dodavanje novog TAG-a (kartice) zaposlenom na Elcom Trade terminalu 
 
 ---
 
+## Šta ti treba
+
+- Glavni (administratorski) TAG, njime se otključava meni terminala.
+- Prazan TAG koji dodeljuješ zaposlenom.
+- Korisnik već postoji na terminalu, jer se u koraku 6 bira iz liste. Ako ga nema u listi, prvo se kreira korisnik.
+
+---
+
 ## Koraci
 
 1. Na početnom ekranu terminala, dok piše **Check-In**, pritisni dugme **M/↵** ispod ESC.
@@ -21,3 +29,9 @@ Uputstvo za dodavanje novog TAG-a (kartice) zaposlenom na Elcom Trade terminalu 
 13. Kada terminal očita karticu, broj kartice će se upisati u polje **Card Number**.
 14. Izađi nazad i sačuvaj potvrdom ako uređaj to traži.
 15. Na kraju se uređaj vraća na početni ekran **Check-In**.
+
+---
+
+## Video uputstvo
+
+Isti postupak snimljen na terminalu: [Elcom kontrola pristupa (YouTube Shorts)](https://www.youtube.com/shorts/PFMbWZbUv7s)
