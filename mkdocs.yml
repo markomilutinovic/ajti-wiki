@@ -38,6 +38,7 @@ nav:
       - email/index.md
       - Thunderbird — Inbox ne prikazuje svu poštu: email/thunderbird-popravka-foldera.md
       - "cPanel Webmail: Out of Office i prosleđivanje pošte": email/cpanel-webmail-out-of-office-forwarding.md
+      - "Microsoft 365: prijava u dva koraka (Authenticator)": email/microsoft-365-prijava-u-dva-koraka.md
   - Windows:
       - windows/index.md
       - SAP GUI:
